@@ -31,17 +31,4 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
----
 
-```js
-// About Me (Developer Style)
-
-class MounirAzzouzi {
-  skills = {
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
-    backend: ["PHP", "Laravel", "Python"],
-    databases: ["MySQL", "MongoDB", "SQLite"],
-    tools: ["Git", "VS Code"],
-    interests: ["Web Development", "Clean Code", "Learning New Tech"]
-  };
-}
