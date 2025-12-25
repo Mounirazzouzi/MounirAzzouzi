@@ -1,17 +1,11 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+
 
 <h2>👋 Hi, I'm Mounir Azzouzi</h2>
 <p><strong>Full-Stack Web Developer</strong></p>
 
-<details>
-<p><strong><summary>💻 Busy coding & vibing to</summary></strong></p>
-
-🎧 Coding • Learning • Building Projects  
-
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 [![GitHub](https://img.shields.io/badge/GitHub-MounirAzzouzi-black?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
