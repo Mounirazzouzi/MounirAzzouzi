@@ -8,7 +8,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-[![GitHub](https://img.shields.io/badge/GitHub-MounirAzzouzi-black?style=flat&logo=github)]
+![GitHub](https://img.shields.io/badge/GitHub-MounirAzzouzi-black?style=flat&logo=github)
 </div>
 
 ---
