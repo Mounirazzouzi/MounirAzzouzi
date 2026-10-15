@@ -1,71 +1,123 @@
  <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=220&section=header&text=Mounir%20Azzouzi&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%" alt="Mounir Azzouzi banner"/>
 
-<h2>👋 Hi, I'm Mounir Azzouzi</h2>
-
-<p><strong>Full-Stack Web Developer | React & Laravel</strong></p>
+<a href="https://azzouzip.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;React+%7C+Laravel+%7C+PHP+%7C+MySQL;Turning+ideas+into+real+projects" alt="Typing introduction"/>
+</a>
 
 <p>
-  <a href="https://azzouzip.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/Mounirazzouzi">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/mounir-azzouzi-b90667352/">💼 LinkedIn</a>
+  <a href="https://azzouzip.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Mounirazzouzi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mounir-azzouzi-b90667352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat" alt="Full Stack Development" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat" alt="Open to Opportunities" />
+<img src="https://komarev.com/ghpvc/?username=Mounirazzouzi&label=PROFILE%20VIEWS&color=06B6D4&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full-Stack Web Developer passionate about building modern web applications.
-- ⚛️ Frontend development with React, JavaScript, HTML, CSS, and Tailwind CSS.
-- 🔧 Backend development with Laravel, PHP, and Python.
-- 🗄️ Working with MySQL, MongoDB, and SQLite.
-- 🛠️ Using Git and GitHub for version control and collaboration.
-- 🌐 Portfolio: [azzouzip.netlify.app](https://azzouzip.netlify.app/)
+Hi! I'm **Mounir Azzouzi**, a Full-Stack Web Developer passionate about creating modern, responsive, and user-friendly web applications.
 
-## 🧰 Tools & Technologies
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+- 🔭 Developing full-stack applications with **React and Laravel**.
+- ⚛️ Building interactive interfaces with JavaScript and Tailwind CSS.
+- ⚙️ Developing backend APIs and application logic with PHP and Laravel.
+- 🗄️ Working with relational and NoSQL databases.
+- 📚 Continuously improving my software engineering and problem-solving skills.
+- 🌍 Explore my work: [azzouzip.netlify.app](https://azzouzip.netlify.app/)
 
 ---
 
-## 🌐 Connect With Me
-
-- **Portfolio:** https://azzouzip.netlify.app/
-- **GitHub:** https://github.com/Mounirazzouzi/
-- **LinkedIn:** https://www.linkedin.com/in/mounir-azzouzi-b90667352/
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💡 Building useful things, one line of code at a time.
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend technologies"/>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python" alt="Backend technologies"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Development tools"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏭 SOS Gold Equipment
+
+A professional B2B platform for industrial laundry and textile-care equipment.
+
+**Tech:** React · Laravel · MySQL
+
+<a href="https://github.com/Mounirazzouzi/sosge-equipment">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🌐 Developer Portfolio
+
+My personal portfolio showcasing my development skills, projects, and professional profile.
+
+**Tech:** React · JavaScript · Tailwind CSS
+
+<a href="https://azzouzip.netlify.app/">Visit Website →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mounirazzouzi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounirazzouzi&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Mounirazzouzi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, building useful products, and connecting with other developers.
+
+<a href="https://azzouzip.netlify.app/">
+  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mounir-azzouzi-b90667352/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+**"Great software is built one thoughtful step at a time."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0F172A&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
