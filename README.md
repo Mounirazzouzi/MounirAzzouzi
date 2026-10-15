@@ -7,7 +7,7 @@
 <p><strong>Full-Stack Web Developer</strong></p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://azzouzip.netlify.app/)
 ![GitHub](https://img.shields.io/badge/GitHub-MounirAzzouzi-black?style=flat&logo=github)
 </div>
 
